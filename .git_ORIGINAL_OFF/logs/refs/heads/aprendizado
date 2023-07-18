@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 10db753ebd68bbf9765603866b1a89b4445f7160 Emmanuel Abruzzo <e164330@trt2.jus.br> 1689025849 -0300	branch: Created from aula-2^0
+10db753ebd68bbf9765603866b1a89b4445f7160 f349ee0c64b32d3dc829b7e183fa3fb6dbe966a8 Emmanuel Abruzzo <e164330@trt2.jus.br> 1689028639 -0300	commit: Cria componente para listar pensamentos
+f349ee0c64b32d3dc829b7e183fa3fb6dbe966a8 09d1701b2c858b4953f0383102409174634b100e Emmanuel Abruzzo <e164330@trt2.jus.br> 1689028927 -0300	commit: Adiciona mural para adicionar pensamentos
+09d1701b2c858b4953f0383102409174634b100e be1c17f656defe9f9bb8f080573060084eb84b4d Emmanuel Abruzzo <e164330@trt2.jus.br> 1689031370 -0300	commit: Cria componente pensamento
+be1c17f656defe9f9bb8f080573060084eb84b4d be1c17f656defe9f9bb8f080573060084eb84b4d Emmanuel Abruzzo <e164330@trt2.jus.br> 1689031472 -0300	Branch: renamed refs/heads/aprendizado-aula-2 to refs/heads/aprendizado
+be1c17f656defe9f9bb8f080573060084eb84b4d 083dd6714b4898441d0fa8535cad17d9afa95779 Emmanuel Abruzzo <e164330@trt2.jus.br> 1689637202 -0300	commit: Diversos

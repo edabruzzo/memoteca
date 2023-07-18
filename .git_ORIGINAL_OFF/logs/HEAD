@@ -1,0 +1,25 @@
+0000000000000000000000000000000000000000 3a3ff69f345bc6195722509fd76688883a5e751c Emmanuel Abruzzo <e164330@trt2.jus.br> 1689020906 -0300	clone: from https://github.com/alura-cursos/2438-angular-memoteca.git
+3a3ff69f345bc6195722509fd76688883a5e751c 31d4bee45ad51c0867fc5a62cd30e864108a6490 Emmanuel Abruzzo <e164330@trt2.jus.br> 1689020944 -0300	checkout: moving from aula-1 to aula-6
+31d4bee45ad51c0867fc5a62cd30e864108a6490 31d4bee45ad51c0867fc5a62cd30e864108a6490 Emmanuel Abruzzo <e164330@trt2.jus.br> 1689020998 -0300	checkout: moving from aula-6 to aula-6
+31d4bee45ad51c0867fc5a62cd30e864108a6490 31d4bee45ad51c0867fc5a62cd30e864108a6490 Emmanuel Abruzzo <e164330@trt2.jus.br> 1689021008 -0300	checkout: moving from aula-6 to aula-6
+31d4bee45ad51c0867fc5a62cd30e864108a6490 31d4bee45ad51c0867fc5a62cd30e864108a6490 Emmanuel Abruzzo <e164330@trt2.jus.br> 1689021027 -0300	checkout: moving from aula-6 to aprendizado
+31d4bee45ad51c0867fc5a62cd30e864108a6490 31d4bee45ad51c0867fc5a62cd30e864108a6490 Emmanuel Abruzzo <e164330@trt2.jus.br> 1689021038 -0300	checkout: moving from aprendizado to aprendizado
+31d4bee45ad51c0867fc5a62cd30e864108a6490 31d4bee45ad51c0867fc5a62cd30e864108a6490 Emmanuel Abruzzo <e164330@trt2.jus.br> 1689025739 -0300	checkout: moving from aprendizado to aula-6
+31d4bee45ad51c0867fc5a62cd30e864108a6490 31d4bee45ad51c0867fc5a62cd30e864108a6490 Emmanuel Abruzzo <e164330@trt2.jus.br> 1689025799 -0300	checkout: moving from aula-6 to aprendizado-aula-6
+31d4bee45ad51c0867fc5a62cd30e864108a6490 591608b20c056d0a94239c63ab4b1db8f299d33c Emmanuel Abruzzo <e164330@trt2.jus.br> 1689025809 -0300	checkout: moving from aprendizado-aula-6 to aula-3
+591608b20c056d0a94239c63ab4b1db8f299d33c 10db753ebd68bbf9765603866b1a89b4445f7160 Emmanuel Abruzzo <e164330@trt2.jus.br> 1689025836 -0300	checkout: moving from aula-3 to aula-2
+10db753ebd68bbf9765603866b1a89b4445f7160 10db753ebd68bbf9765603866b1a89b4445f7160 Emmanuel Abruzzo <e164330@trt2.jus.br> 1689025849 -0300	checkout: moving from aula-2 to aprendizado-aula-2
+10db753ebd68bbf9765603866b1a89b4445f7160 f349ee0c64b32d3dc829b7e183fa3fb6dbe966a8 Emmanuel Abruzzo <e164330@trt2.jus.br> 1689028639 -0300	commit: Cria componente para listar pensamentos
+f349ee0c64b32d3dc829b7e183fa3fb6dbe966a8 591608b20c056d0a94239c63ab4b1db8f299d33c Emmanuel Abruzzo <e164330@trt2.jus.br> 1689028649 -0300	checkout: moving from aprendizado-aula-2 to aula-3
+591608b20c056d0a94239c63ab4b1db8f299d33c f349ee0c64b32d3dc829b7e183fa3fb6dbe966a8 Emmanuel Abruzzo <e164330@trt2.jus.br> 1689028675 -0300	checkout: moving from aula-3 to aprendizado-aula-2
+f349ee0c64b32d3dc829b7e183fa3fb6dbe966a8 09d1701b2c858b4953f0383102409174634b100e Emmanuel Abruzzo <e164330@trt2.jus.br> 1689028927 -0300	commit: Adiciona mural para adicionar pensamentos
+09d1701b2c858b4953f0383102409174634b100e be1c17f656defe9f9bb8f080573060084eb84b4d Emmanuel Abruzzo <e164330@trt2.jus.br> 1689031370 -0300	commit: Cria componente pensamento
+be1c17f656defe9f9bb8f080573060084eb84b4d d98427a1cc9710155ba2d72e162b19f597469a55 Emmanuel Abruzzo <e164330@trt2.jus.br> 1689031402 -0300	checkout: moving from aprendizado-aula-2 to aula-4
+d98427a1cc9710155ba2d72e162b19f597469a55 be1c17f656defe9f9bb8f080573060084eb84b4d Emmanuel Abruzzo <e164330@trt2.jus.br> 1689031438 -0300	checkout: moving from aula-4 to aprendizado-aula-2
+be1c17f656defe9f9bb8f080573060084eb84b4d be1c17f656defe9f9bb8f080573060084eb84b4d Emmanuel Abruzzo <e164330@trt2.jus.br> 1689031442 -0300	checkout: moving from aprendizado-aula-2 to aprendizado-aula-2
+be1c17f656defe9f9bb8f080573060084eb84b4d 0000000000000000000000000000000000000000 Emmanuel Abruzzo <e164330@trt2.jus.br> 1689031472 -0300	Branch: renamed refs/heads/aprendizado-aula-2 to refs/heads/aprendizado
+0000000000000000000000000000000000000000 be1c17f656defe9f9bb8f080573060084eb84b4d Emmanuel Abruzzo <e164330@trt2.jus.br> 1689031472 -0300	Branch: renamed refs/heads/aprendizado-aula-2 to refs/heads/aprendizado
+be1c17f656defe9f9bb8f080573060084eb84b4d 083dd6714b4898441d0fa8535cad17d9afa95779 Emmanuel Abruzzo <e164330@trt2.jus.br> 1689637202 -0300	commit: Diversos
+083dd6714b4898441d0fa8535cad17d9afa95779 31d4bee45ad51c0867fc5a62cd30e864108a6490 Emmanuel Abruzzo <e164330@trt2.jus.br> 1689637207 -0300	checkout: moving from aprendizado to aula-6
+31d4bee45ad51c0867fc5a62cd30e864108a6490 cc5f85a33aa86709cd7bed887f98a0911b33841e Emmanuel Abruzzo <e164330@trt2.jus.br> 1689638461 -0300	commit: Reinicializa projeto
+cc5f85a33aa86709cd7bed887f98a0911b33841e cc5f85a33aa86709cd7bed887f98a0911b33841e Emmanuel Abruzzo <e164330@trt2.jus.br> 1689638484 -0300	checkout: moving from aula-6 to aprendizado-aula-1-avancando

@@ -1,0 +1,7 @@
+# pack-refs with: peeled fully-peeled sorted 
+3a3ff69f345bc6195722509fd76688883a5e751c refs/remotes/origin/aula-1
+10db753ebd68bbf9765603866b1a89b4445f7160 refs/remotes/origin/aula-2
+591608b20c056d0a94239c63ab4b1db8f299d33c refs/remotes/origin/aula-3
+d98427a1cc9710155ba2d72e162b19f597469a55 refs/remotes/origin/aula-4
+9feed53c7646c72c11d282f1ffbd5b792699b162 refs/remotes/origin/aula-5
+31d4bee45ad51c0867fc5a62cd30e864108a6490 refs/remotes/origin/aula-6

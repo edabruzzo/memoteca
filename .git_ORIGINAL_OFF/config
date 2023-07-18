@@ -1,0 +1,23 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://github.com/alura-cursos/2438-angular-memoteca.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "aula-1"]
+	remote = origin
+	merge = refs/heads/aula-1
+[branch "aula-6"]
+	remote = origin
+	merge = refs/heads/aula-6
+[branch "aula-3"]
+	remote = origin
+	merge = refs/heads/aula-3
+[branch "aula-2"]
+	remote = origin
+	merge = refs/heads/aula-2
+[branch "aula-4"]
+	remote = origin
+	merge = refs/heads/aula-4
